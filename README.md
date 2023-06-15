@@ -4,7 +4,7 @@
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=23232e&style=for-the-badge)
 
 ## Introdução
-<img align="center" alt="gwen-stacy" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/610988f2-d1b6-4991-b503-bbdf4d265267">
+<img align="center" alt="gwen-stacy" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/610988f2-d1b6-4991-b503-bbdf4d265267"><br>
 
 O presente documento tem como por objetivo compor toda a documentação do projeto final das disciplinas de Programação para Dispositivos Móveis e Aplicações Orientada a Serviço, no qual propus a criação de um APP de conteúdo livre, expondo todo o repertório dado em sala de aula.
 
@@ -13,7 +13,7 @@ Nesse viés, esta documentação conterá a visão geral do projeto, bem como os
 A equipe responsável pelo projeto foram os alunos Eudes Clovis Pereira e Samara Silvia Sabino Correa, graduandos do 4° período do curso de Sistemas para Internet.
 
 ## Problema 
-<img align="center" alt="gwen-stacy" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/23bd2302-5aec-4847-9cec-c2652b1fad9b">
+<img align="center" alt="gwen-stacy" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/23bd2302-5aec-4847-9cec-c2652b1fad9b"><br>
 
 No contexto cultural atual, a necessidade de um API de catálogo de personagens da Marvel e da DC como forma de entretenimento merece ser problematizada. Vivemos em uma época marcada pela ascensão do universo cinematográfico, no qual filmes de super-heróis se tornaram extremamente populares. 
 
@@ -46,15 +46,18 @@ Assim, pelo acesso facilitado a tais informações, o usuário poderá usufruir 
 ## Entidades e Relacionamentos
 
 ### User
-<img align="center" alt="miles-morales" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/dff42b8f-3261-4529-b027-ae286a68f94a">
+<img align="center" alt="miles-morales" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/dff42b8f-3261-4529-b027-ae286a68f94a"><br>
+
 A entidade USER foi criada para que o cliente não perca os seus dados, visto que como existe a funcionalidade de criar listas e adicionar os seus personagens favoritos nela, foi necessário essa autenticação.
 
 ### Character
-<img align="center" alt="peter-park" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/f86c8696-96aa-4655-8191-e27ae4cfe49a">
+<img align="center" alt="peter-park" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/f86c8696-96aa-4655-8191-e27ae4cfe49a"><br>
+
 A entidade CHARACTER foi criada para expor os dados mais cruciais acerca dos dois universos cinematográficos, explorando seus habilidades, identidades, relacionamentos e entre outros aspectos.
 
 ### List
-<img align="center" alt="gwen-stacy" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/0f8e9ec4-a2dc-48f1-9f1f-0a3c9f7f338b">
+<img align="center" alt="gwen-stacy" height="250" width="1000" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/0f8e9ec4-a2dc-48f1-9f1f-0a3c9f7f338b"><br>
+
 A entidade LIST foi criada para que o usuário pudesse interagir com o app guardando em uma "lista" os seus personagens favoritos.
 
 ## Requisitos Funcionais
