@@ -46,15 +46,15 @@ Assim, pelo acesso facilitado a tais informações, o usuário poderá usufruir 
 ## Entidades e Relacionamentos
 
 ### User
-![Miles](https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/dff42b8f-3261-4529-b027-ae286a68f94a)
+<img align="center" alt="miles-morales" height="100" width="100" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/dff42b8f-3261-4529-b027-ae286a68f94a">
 A entidade USER foi criada para que o cliente não perca os seus dados, visto que como existe a funcionalidade de criar listas e adicionar os seus personagens favoritos nela, foi necessário essa autenticação.
 
 ### Character
-![PeterPark](https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/f86c8696-96aa-4655-8191-e27ae4cfe49a)
+<img align="center" alt="peter-park" height="100" width="100" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/f86c8696-96aa-4655-8191-e27ae4cfe49a">
 A entidade CHARACTER foi criada para expor os dados mais cruciais acerca dos dois universos cinematográficos, explorando seus habilidades, identidades, relacionamentos e entre outros aspectos.
 
 ### List
-![Gwen](https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/0f8e9ec4-a2dc-48f1-9f1f-0a3c9f7f338b)
+<img align="center" alt="gwen-stacy" height="100" width="100" src="https://github.com/SamaraSilvia81/ProjectGeeksWorldFullstack/assets/100232025/0f8e9ec4-a2dc-48f1-9f1f-0a3c9f7f338b">
 A entidade LIST foi criada para que o usuário pudesse interagir com o app guardando em uma "lista" os seus personagens favoritos.
 
 ## Requisitos Funcionais
